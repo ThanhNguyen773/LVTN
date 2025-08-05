@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "gundam-chatbot",
+  "private_key_id": "b524f22e808670c71eaa6ba498e8d0bb21fdc34d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDDZStN2vROv51L\nXiT8Of8ynPLiApeKD+hlaOv4iHS2GBHHp5ua86bBSU5S4+MPnEY2YBUBD4UtQ0/7\nDXUoSUAvKrblPUf4Gdc66Ff05+6dMWJKTOK8n6nuu3NR6tDUKpZ9ftz+Z1vawlzJ\nZVR4y4zgid0W+kQRoCiiEmfADtbm0GKoonr0yyyE/EsVLDHnWnSirbQv0vxzX2NF\nwgGRmJYJE0m1V6oED2fZYfJmiCDRxKbgWf2kNXBPwtO13ivpZk1nJErp8Pk/1QbW\nwejX5hOuGbI6+OMStMoWnOSAz8kprU5Oe3/8D/Ii7X0tT3RVgV0s10LPxDwUL9UV\nhE3mDkuVAgMBAAECggEAI4oj/3/3BljHYyU/TGo/HuVZrx6iEhBVKJbWLskhE1ra\n5wn3HU66crci6iQ9kUIPKkY9I8l/I222HzeCKv7xz/JwvE7yZ2/JzFLk5qyF4+0O\nz+1eo0jWN5A8SDbR33lUkIRx7Ur+89H83vvRirwZRmEFB/Aiz+Ll6R64ZMA+OdJ1\nTYJxdf7lY9PjtypbcpB7/M9lqaihJPVHqecoo5ednfgN8HCCzRDxyUYVGskzIwei\n3sMF9CsBspvo1h1XHT5bLtpK6MrTtL85RMBzgIynVICauf2q5Zwtml0gHK8zIBdY\nluEBMAgqjdwZtUlAsi+7gYdufmL+XMSEa6jN3WT+CQKBgQDuQtwFlEPFQ3+VXr0H\nWWOEoLdAYO+Cc2ntQvXqe6ehwdGkbU4ZrzLh5OW5koR/leDlvAJd887rOwzmiZHH\n2UIRJ5dY3yN37vIXk0SgjlOTyTuliOasv5Ee+yaCDozaRA+z8eXEwfQGOJTNNdhd\nfdRjOVGuZEQxtBiTfTBigdOYfQKBgQDR8U4mdu/YCFP2o5JC1F1Vkoah6oLhqFPQ\nPRkJukKECupu7lU6witWlFsZB8PTe6Vu3o7ghsv8gxyEzeLHBd8KgrTsQ2iYM9YT\nU+yx2PsNkXdtO9pjOaln7eQFNkyJfdEsgbyII9jOmDwZ7TYSIpoRZGKcYtW4I04x\nfVPcI6YC+QKBgGyH/it4byqDZbGH1zlqyX9XqkHkJhXZNu5B6z0lmKWBYVqyA7qF\naPsnRlGy4TIw9qIPc1CSx7W1T1oQXlyXpZWk4Dc2ZbSzHooIpmEwk/ek2cu8wb79\nAEEJjG//6r9d8303ej+XTe4rhfS4S1fDAqU0LfXvbHTroapFg23Lz7QNAoGAPsl8\nJeTMNj/HXKvuwi3g/AamXSZVnkdJSa38Hvylh/f7xNFijAAmFe6okAPSfR0tjMri\n0COAPjS4Ar/QYtVOr0YH9eDzFxHppD4lO8s4ygYHQZP07FgCYiKzXxuuKDCIrlbe\nm5ic7qx4zQg0c5gFm8357+tfH4Lvj717pwrCS4ECgYANFxx26CcQP039x0cQvZVx\nvc+cWUMRGWn5okUGJZB57Hq7CZxmL6jhaFmDGkqAeCHLJYcE7Nm2Dn/rDP0FgQ9o\nfIaglUg+K4AqE0KDJ1jpfoWuXHOurRWRIAyzbXYkdd9kgYt+S8EN5fQgmaghY/wM\nJuutr/ydbmER97RzzX/bfg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "gundam-bot-client@gundam-chatbot.iam.gserviceaccount.com",
+  "client_id": "110454802142694762359",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gundam-bot-client%40gundam-chatbot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
