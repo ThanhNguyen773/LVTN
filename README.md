@@ -2,7 +2,7 @@
 
 This project is part of the graduation thesis titled:
 
-**"Development of a Web Application for Selling Gundam Models with Integrated 3D Visualization"**
+**"Developing a Web Application for Selling Gundam Models with Integrated 3D Visualization"**
 
 ## 🧾 Description
 
